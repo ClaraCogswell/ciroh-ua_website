@@ -14,7 +14,7 @@ Depending on the type and size of data you are producing and using, we recommend
 
 1. **HydroShare (www.hydroshare.org)**
    - **When to use:**
-     - Use for datasets under 1GB (increases are possible)
+     - Use for datasets less than or equal to 5GB (this is the maximum files size uploadable through the user interface).  
      - Datasets that require spatial data services (THREDDS, WMS, etc)
      - Datasets that need to be accessed from applications through APIs
      - Datasets that are linked to other datasets
@@ -26,12 +26,12 @@ Depending on the type and size of data you are producing and using, we recommend
      - Rapidly changing datasets
      - Data with extensive sharing and license restrictions
    - **Cost of use:**
-     - Free for researchers up to 20 GB per user
+     - Free for researchers up to 20 GB per user (more available upon reasonable request)
      - Free for permanently published data
    - **Where to go for help:** 
      - [HydroShare Help](http://help.hydroshare.org)
      - Email help@cuahsi.org to reach the CUAHSI HydroShare team
-     - HydroShare short videos on CUAHSI YouTube channel
+     - HydroShare short videos on CUAHSI YouTube channel in the HydroShare How To Playlist
 
 2. **CIROH Cloud Amazon S3 storage via CIROH’s AWS account and Google Buckets, Azure, On-Premise**
    - **When to use:**
